@@ -33,7 +33,7 @@ OpenAPI Specification (OAS) version 3.0 for API documentation
 
 Running the app
 
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/shaileshhedaoo/Lens_Corporate_Assignment.git
 Import the project into STS:
 Click File > Import...
 Select Maven > Existing Maven Projects and click Next
